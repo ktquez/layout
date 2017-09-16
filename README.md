@@ -1,2 +1,3 @@
-# layout
-A full-featured Webpack + vue-loader setup with hot reload, linting, testing, css extraction &amp; extend layout
+# ktquez/layout
+
+A full-featured Webpack + extend layout + vue-loader setup with hot reload, linting, testing & css extraction
