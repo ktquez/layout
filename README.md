@@ -94,13 +94,9 @@ And to extend this layout in any the desired route, simply include the property 
 
 **Attention: The value of the `layout` property must be the same as the name of the `my-custom-layout-login` component.**
 
----
-
 # Articles and Screencast
 
 - In development
-
----
 
 # Contributing
 
