@@ -1,6 +1,7 @@
 # ktquez/layout
 
-A full-featured Webpack + extend layout + vue-loader setup with hot reload, linting, testing & css extraction.
+A full-featured Webpack + extend layout + vue-loader setup with hot reload, linting, testing & css extraction.  
+*Using vue-extend-layout package, inspired in layouts of the Nuxt.js*
 
 > This template is Vue 2.0 compatible
 
