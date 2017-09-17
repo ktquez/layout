@@ -1,7 +1,7 @@
 <template>
   <div>
     <h1>Page not found</h1>
-    <layout /> <!-- Optional -->
+    <router-view /> <!-- Optional -->
   </div>
 </template>
 

@@ -67,7 +67,7 @@ For example:
 ```vue
 <template>
   <div>
-    <layout /> <!-- This component will serve as a wrapper for your pages. -->
+    <router-view />
   </div>
 </template>
 
