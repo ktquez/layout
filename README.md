@@ -76,7 +76,7 @@ For example:
 </script>
 
 <style>
-// your style
+/* your style */
 </style>
 ```
 
