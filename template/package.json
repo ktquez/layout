@@ -1,6 +1,6 @@
 {
   "name": "{{name}}",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "{{description}}",
   "author": "{{author}}",
   "private": true,
@@ -20,6 +20,7 @@
     "vue-head": "^2.0.11"{{/vueHead}}
   },
   "devDependencies": {
+    "js-beautify": "1.6.14",
     "autoprefixer": "^7.1.2",
     "babel-core": "^6.22.1",
     "babel-eslint": "^7.1.1",
